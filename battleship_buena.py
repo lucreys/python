@@ -86,7 +86,7 @@ while True:
     else:
         print("Las respuestas solo se aceptan en formato 'si' o 'no'. Otro formato es incorrecto.")
         
-        
+print("hola")
         
         
         
